@@ -1,0 +1,7 @@
+In the past, architects and interior designers faced big challenges when creating and reviewing building or room designs. Teams often worked in different software, and every time someone made a change, files had to be re-exported, shared, and re-checked. This process was slow, caused errors, and made real-time collaboration almost impossible. Visualization was also limited—designs looked good on screen but didn’t always match how a finished room or home would feel in reality.
+
+NVIDIA Omniverse was created to solve these problems. It acts as a single collaborative platform where architects, engineers, and clients can all work on the same model together, no matter which design tool they prefer. Through Omniverse Nucleus and Connectors, software like Revit, Rhino, or SketchUp links directly into one shared 3D environment. Any update made in one program instantly appears in Omniverse for others to see.
+
+For home and room design, this means you can move a table, place a sofa, or change materials and instantly see the results in a photorealistic space. Using RTX ray tracing, AI denoising, and physics simulation, Omniverse makes lighting, shadows, and object interactions feel real. With AR and VR headsets, designers and clients can step inside the virtual room, walk around, and experience the layout before building it. Machine learning enhances this by analyzing designs, predicting lighting or spatial flow, and even suggesting better layouts.
+
+In simple terms, Omniverse transforms architectural design into a faster, smarter, and more immersive process.
